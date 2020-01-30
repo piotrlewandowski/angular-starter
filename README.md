@@ -17,7 +17,7 @@ Simple Angular 8+ Starter. It contains:
 2. If you're using NVM run `nvm use` inside project directory to use node version set in `.nvmrc` file
 3. Run `npm install` or `npm i` to install all the dependencies
 4. To begin development task, run `npm start`
-5. Open [http://localhost:8080](http://localhost:8080)
+5. Open [http://localhost:4200/](http://localhost:4200/)
 
 ## Available commands
 

@@ -1,11 +1,12 @@
-# Angular 8+ Starter
+# Angular 10+ Starter
 
-Simple Angular 8+ Starter. It contains:
-- [x] Angular 8.2.14
-- [x] Angular CLI 8.3.23
+Simple Angular 10+ Starter. It contains:
+- [x] Angular 10.0.3
+- [x] Angular CLI 10.0.2
 - [x] Angular Router
 - [x] Live Reloading
-- [x] RxJS 6.5.4
+- [x] TypeScript 3.9.6
+- [x] RxJS 6.5.5
 
 ## Prerequisites
 

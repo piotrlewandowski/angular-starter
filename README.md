@@ -5,6 +5,7 @@ Simple Angular 10+ Starter. It contains:
 - [x] Angular CLI 10.0.2
 - [x] Angular Router
 - [x] Live Reloading
+- [x] [Hot Module Replacement](https://github.com/angular/angular-cli/wiki/stories-configure-hmr)
 - [x] TypeScript 3.9.6
 - [x] RxJS 6.5.5
 
@@ -24,4 +25,5 @@ Simple Angular 10+ Starter. It contains:
 
 - `npm clean` - delete the `dist` folder
 - `npm start` - start the dev server and watch for changes
+- `npm run hmr` - start the development environment with HMR enabled
 - `npm run build` - create a production ready build in `dist` folder

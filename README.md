@@ -11,7 +11,7 @@ Simple Angular 12+ Starter. It contains:
 
 ## Prerequisites
 
-* [Node](https://nodejs.org/) (Make sure you have the node 12+ installed)
+* [Node](https://nodejs.org/) (Make sure you have the node 14+ installed)
 
 ## Getting Started
 
@@ -25,5 +25,5 @@ Simple Angular 12+ Starter. It contains:
 
 - `npm clean` - delete the `dist` folder
 - `npm start` - start the dev server and watch for changes
-- `npm run hmr` - start the development environment with HMR enabled
+- `npm run hmr` - start the development environment with HMR (Hot Module Replacement) enabled
 - `npm run build` - create a production ready build in `dist` folder

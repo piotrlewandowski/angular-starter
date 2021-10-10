@@ -1,13 +1,13 @@
 # Angular 12+ Starter
 
 Simple Angular 12+ Starter. It contains:
-- [x] Angular 12.2.3
-- [x] Angular CLI 12.2.3
+- [x] Angular 12.2.9
+- [x] Angular CLI 12.2.9
 - [x] Angular Router
 - [x] Live Reloading
 - [x] [Hot Module Replacement](https://github.com/angular/angular-cli/wiki/stories-configure-hmr)
 - [x] TypeScript 4.3.5
-- [x] RxJS 7.3.0
+- [x] RxJS 7.4.0
 
 ## Prerequisites
 
